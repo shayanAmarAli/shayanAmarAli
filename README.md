@@ -15,9 +15,10 @@
 
 ### 🚀 About Me
 
-I'm a Full Stack Developer building fintech and e-commerce products across mobile, web, and backend — from **Flutter** apps to **WordPress/WooCommerce payment plugins** (JazzCash, EasyPaisa, card payments) and **Node.js/TypeScript** & **Java Spring Boot** services.
+I'm a Full Stack Developer building fintech and e-commerce products across mobile, web, and backend — from **Flutter** apps and **React / Next.js** web frontends to **WordPress/WooCommerce payment plugins** (JazzCash, EasyPaisa, card payments) and **Node.js/TypeScript** & **Java Spring Boot** services.
 
 - 💳 Payment integrations & fintech platforms — SahulatPay, AssanPay
+- 🖥️ Responsive web UIs with React, Next.js, Chakra UI & Tailwind CSS
 - 📱 Cross-platform mobile apps with Flutter & Dart
 - 🔌 Custom WordPress / WooCommerce plugin development
 - 🌱 Currently sharpening backend architecture & clean-code practices
@@ -39,6 +40,8 @@ I'm a Full Stack Developer building fintech and e-commerce products across mobil
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
