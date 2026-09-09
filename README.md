@@ -84,8 +84,8 @@
 
 <h3 align="center">Shayan's GitHub Stats</h3>
 <p align="center">
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanAmarAli&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Shayan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shayanAmarAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" alt="Most used languages" src="https://github-readme-stats-3rqy.vercel.app/api/top-langs/?username=shayanAmarAli&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" alt="Shayan's GitHub stats" src="https://github-readme-stats-3rqy.vercel.app/api?username=shayanAmarAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 ---
@@ -94,14 +94,6 @@
 
 <p align="center">
   <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shayanAmarAli&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shayanAmarAli&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" alt="footer" width="100%" />
