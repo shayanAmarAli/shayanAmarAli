@@ -54,8 +54,8 @@ I'm a Full Stack Developer working across mobile, web, and backend to ship finte
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayanAmarAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanAmarAli&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=shayanAmarAli&label=Profile%20Views&color=0f172a&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/shayanAmarAli?label=Followers&style=for-the-badge&color=0f172a" />
 </p>
 
 <p align="center">
